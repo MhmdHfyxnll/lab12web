@@ -66,3 +66,8 @@ Pagination diimplementasikan menggunakan query SQL LIMIT dan OFFSET untuk membat
 
 Dengan dibuatnya aplikasi ini, mahasiswa dapat memahami konsep session pada PHP, pembatasan akses halaman, serta pagination data menggunakan MySQL sebagai bagian dari pengembangan aplikasi web dinamis.
 ```
+
+<img width="323" height="371" alt="Screenshot from 2025-12-23 19-24-32" src="https://github.com/user-attachments/assets/b07d2029-cb36-4dd2-9fd8-595173c08be1" />
+
+<img width="406" height="354" alt="Screenshot from 2025-12-23 19-24-57" src="https://github.com/user-attachments/assets/c76eeb1c-4a47-4de0-8b90-6856ff6905b3" />
+
